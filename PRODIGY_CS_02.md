@@ -144,5 +144,6 @@ def test_image_encryption_decryption():
 <img width="720" height="1560" alt="screen" src="https://github.com/user-attachments/assets/3f637b45-7057-4b23-82f7-546115875dc5" />
 <img width="720" height="1560" alt="encrypted" src="https://github.com/user-attachments/assets/f0deeb4d-d903-46ed-b203-511fc165ca58" />
 <img width="720" height="1560" alt="decrypted" src="https://github.com/user-attachments/assets/1530899d-ce59-46fa-9980-554e31db7fd2" />
+<img width="1106" height="576" alt="Screenshot 2025-07-10 185955" src="https://github.com/user-attachments/assets/7f904a38-771f-47ba-8c1f-a174be45e47c" />
 
 
