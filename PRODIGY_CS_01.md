@@ -3,7 +3,7 @@
 # 🛡️ Caesar Cipher: Text Encryption & Decryption Tool
 
 ## 🔍 Task Overview
-This project is a Python-based implementation of the classic Caesar Cipher encryption algorithm. It enables users to encrypt and decrypt text messages using a numeric shift value. Caesar Cipher is a simple substitution cipher where each letter is replaced by another letter a fixed number of positions down the alphabet.
+This task is a Python-based implementation of the classic Caesar Cipher encryption algorithm. It enables users to encrypt and decrypt text messages using a numeric shift value. Caesar Cipher is a simple substitution cipher where each letter is replaced by another letter a fixed number of positions down the alphabet.
 
 ---
 
