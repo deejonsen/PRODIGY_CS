@@ -170,3 +170,10 @@ Result (decrypted): Hacker Dorcas Johnson.
 ```
 
 ---
+<img width="1289" height="719" alt="Screenshot 2025-07-13 155019" src="https://github.com/user-attachments/assets/95dae2b1-8c67-4428-8bbd-7e4edb923556" />
+<img width="1180" height="720" alt="Screenshot 2025-07-13 154333" src="https://github.com/user-attachments/assets/44d34e71-525a-4df5-b59f-97e1f936f217" />
+<img width="1014" height="595" alt="Screenshot 2025-07-13 144514" src="https://github.com/user-attachments/assets/59b0b4ad-4c42-41c2-81d4-3ba5437a9afb" />
+<img width="935" height="681" alt="Screenshot 2025-07-13 144352" src="https://github.com/user-attachments/assets/ba763c9f-467c-4f3c-b031-1e5e30bb612a" />
+<img width="1366" height="462" alt="Screenshot 2025-07-13 140048" src="https://github.com/user-attachments/assets/93b3fda4-d4a1-462b-8a57-9e4e83096ecf" />
+<img width="1366" height="732" alt="Screenshot 2025-07-13 135951" src="https://github.com/user-attachments/assets/b16c3368-a638-4083-9846-eeb521708104" />
+<img width="1358" height="722" alt="Screenshot 2025-07-13 135848" src="https://github.com/user-attachments/assets/e277ef42-793a-4d55-9559-5a9aff400b57" />
