@@ -102,3 +102,4 @@ check_password_strength(user_input)
 <img width="1208" height="548" alt="Screenshot 2025-07-13 231302" src="https://github.com/user-attachments/assets/538f19fb-00b8-4e00-a6fd-ff60c4ac3014" />
 <img width="1158" height="702" alt="Screenshot 2025-07-13 231231" src="https://github.com/user-attachments/assets/6b0c2be7-0a16-4470-be69-aa33ee3bef2c" />
 <img width="1366" height="719" alt="Screenshot 2025-07-13 231203" src="https://github.com/user-attachments/assets/942ab908-0580-4607-bb65-fba0641a6c4b" />
+<img width="1097" height="497" alt="Screenshot 2025-07-10 190011" src="https://github.com/user-attachments/assets/8519bcd4-6a66-4516-a476-283bb42e7761" />
