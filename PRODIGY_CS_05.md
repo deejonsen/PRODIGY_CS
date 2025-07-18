@@ -78,10 +78,10 @@ sniff(filter="tcp", prn=packet_callback, store=False)
 
 ```text
 🔍 Packet Captured:
-Source IP: 192.168.0.5
-Destination IP: 172.217.22.174
+Source IP: 192.168.220.7
+Destination IP: 104.18.32.83
 Protocol: 6
-Summary: Ether / IP / TCP 192.168.0.5:54321 > 172.217.22.174:443 S
+Summary: Ether / IP / TCP 192.168.220.7:54321 > 104.18.32.83:443 S
 ```
 
 ---
